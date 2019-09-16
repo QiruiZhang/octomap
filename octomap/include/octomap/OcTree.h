@@ -39,6 +39,8 @@
 #include "OcTreeNode.h"
 #include "ScanGraph.h"
 
+// This class is inherited from OccupancyOcTreeBase
+
 namespace octomap {
 
   /**
